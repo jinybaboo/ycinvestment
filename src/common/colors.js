@@ -1,17 +1,28 @@
 const colors = {
-    ma3:'#3F497F',
-    ma24:'#B71375',
-    ma60:'#57C5B6',
-    ma120:'#F7C04A',
+    ma3:'#080202',  //검정
+    ma12:'#CD1818', //빨간
+    ma20:'#080202', //검정
+    ma60:'#16FF00',  //초록
+    ma120:'#F0A04B', // 주황
+    separation : '#FFED00', //노랑
     candle:'#892CDC',
-    resistance: 'rgb(255, 85, 187)',
-    support: 'rgb(104, 185, 132)',
-    resistanceOpa: 'rgba(255, 85, 187, 0.5)',
-    supportOpa: 'rgba(104, 185, 132, 0.5)',
+    resistance: 'rgb(233, 0, 100)',
+    support: 'rgb(54, 47, 217)',
+    resistanceOpa: 'rgba(233, 0, 100, 0.5)',
+    supportOpa: 'rgba(54, 47, 217, 0.5)',
     opa0 : 'rgba(0,0,0,0)',
-    separation : '#4C3D3D',
     volume :'#FFD3A3',
     bollinger:'#B70404',
-    black:'#222222'
+    black:'#222222',
+    white:'#FFFFFF',
+    backgroundBlack:'#0B1119',
+    textYellow :'#FCAD3E',
+    textWhite: '#F1F1F3',
+    textBlack: '#333333',
+    grayUnderline: '#E2E2E2',
+    buttonBlue:'#2971FC',
+    buttonBlueBackground:'#F6FAFF',
+    buttonInactiveTxtGray:'#999999',
+    lightBlackBackground:'#172838',
 }
 export default colors;

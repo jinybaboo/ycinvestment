@@ -106,3 +106,8 @@ export function thousandComma(num){
     return num?.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 }
 
+export function getKoreanEulReul(word) {
+	const lastChar = word[word.length - 1];
+	const isJongsung = (lastChar.charCodeAt(0) - 0xac00) % 28 > 0;
+	return isJongsung ? '을' : '를';
+}
