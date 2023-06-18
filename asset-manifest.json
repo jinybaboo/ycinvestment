@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ycinvestment/static/css/main.866b642c.css",
-    "main.js": "/ycinvestment/static/js/main.bf2acc0d.js",
+    "main.js": "/ycinvestment/static/js/main.f704057e.js",
     "static/js/787.2301d011.chunk.js": "/ycinvestment/static/js/787.2301d011.chunk.js",
     "static/media/NotoSansKR-Black.otf": "/ycinvestment/static/media/NotoSansKR-Black.51ad0be22e9a7d626d4c.otf",
     "static/media/NotoSansKR-Bold.otf": "/ycinvestment/static/media/NotoSansKR-Bold.bad0e182b567b441991f.otf",
@@ -14,11 +14,11 @@
     "static/media/Roboto-Light.ttf": "/ycinvestment/static/media/Roboto-Light.67102731a93fd827b382.ttf",
     "index.html": "/ycinvestment/index.html",
     "main.866b642c.css.map": "/ycinvestment/static/css/main.866b642c.css.map",
-    "main.bf2acc0d.js.map": "/ycinvestment/static/js/main.bf2acc0d.js.map",
+    "main.f704057e.js.map": "/ycinvestment/static/js/main.f704057e.js.map",
     "787.2301d011.chunk.js.map": "/ycinvestment/static/js/787.2301d011.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.866b642c.css",
-    "static/js/main.bf2acc0d.js"
+    "static/js/main.f704057e.js"
   ]
 }
